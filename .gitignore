@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.csv
+*.xlsx
+*.pdf
+*.db
+*.sqlite
+.env
+.DS_Store
+Thumbs.db
+data/
+gitnore/
+*.code-workspace
